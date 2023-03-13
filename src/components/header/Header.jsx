@@ -1,26 +1,21 @@
-import React from 'react';
-import './Header.css'
-import Header_btn from './Header_btn'
-import MYSELF from '../../assets/me.jpeg'
-import HeaderSocial from './Social'
+import React from "react";
+import "./Header.css";
+
 const Header = () => {
   return (
-   <header>
-    <div className="container header_container">
-      <h5>Hello, It's Me </h5>
-      <h1>Atul Pratap Singh</h1>
-      <h5 className="text-light">
-        And I'm a Frontend Developer
-      </h5>
-      <Header_btn/>
-      <HeaderSocial/>
-      <div className="myself">
-        <img src={MYSELF} alt="myself" />
-      </div>
-      <a href="#contact" className='scroll_down'>Click To Scroll Down</a>
-    </div>
-   </header>
+    <header className="header">
+      <a href="#" className="logo">
+        Atul Pratap Singh
+      </a>
+      <nav className="navbar">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#offer">Offers</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
   );
-}
+};
 
 export default Header;
