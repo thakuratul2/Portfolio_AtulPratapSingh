@@ -6,7 +6,6 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import logo from "../../assets/sLogo.png";
 
 const Footer = () => {
     let date = new Date();
@@ -18,14 +17,14 @@ const Footer = () => {
             <h3>Dedicated to creating impactful solutions!</h3>
           </Col>
           <Col md="4" className="footer-copywright">
-            <h3>Copyright © {year}</h3>
-            <img src={logo} className="img-fluid logo" alt="brand" />
+            <h3>Copyright © {year} | Atul Pratap Singh</h3>
+            
           </Col>
           <Col md="4" className="footer-body">
             <ul className="footer-icons">
               <li className="social-icons">
                 <a
-                  href="https://github.com/19sajib"
+                  href="https://github.com/thakuratul2"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -35,7 +34,7 @@ const Footer = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/19sajib"
+                  href="https://twitter.com/thakuratul_28"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -45,7 +44,7 @@ const Footer = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/19sajib/"
+                  href="https://www.linkedin.com/in/atul-pratap-singh/"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
@@ -55,7 +54,7 @@ const Footer = () => {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/19sajib"
+                  href="https://www.instagram.com/thakuratul_28"
                   style={{ color: "white" }}
                   target="_blank" 
                   rel="noopener noreferrer"
