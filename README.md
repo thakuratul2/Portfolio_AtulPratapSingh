@@ -22,8 +22,8 @@
     <tbody>
          <tr>
             <td><a href="https://github.com/thakuratul2/Portfolio_AtulPratapSingh"</a>Project</td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/1thakuratul2/Portfolio_AtulPratapSingh?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/1thakuratul2/Portfolio_AtulPratapSingh?style=flat&logo=github"/></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/thakuratul2/Portfolio_AtulPratapSingh?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/thakuratul2/Portfolio_AtulPratapSingh?style=flat&logo=github"/></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/thakuratul2/Portfolio_AtulPratapSingh?style=flat&logo=github"/></td>
             <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/thakuratul2/Portfolio_AtulPratapSingh?style=flat&logo=github"/></td>
            <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/thakuratul2/Portfolio_AtulPratapSingh?style=flat&color=critical&logo=github"/></td>
