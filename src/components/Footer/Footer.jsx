@@ -6,7 +6,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-
+import logo from "../../assets/sLogo.png";
 
 const Footer = () => {
     let date = new Date();
@@ -18,8 +18,8 @@ const Footer = () => {
             <h3>Dedicated to creating impactful solutions!</h3>
           </Col>
           <Col md="4" className="footer-copywright">
-            <h3>Copyright © {year} | Atul Pratap Singh</h3>
-            
+            <h3>Copyright © {year}</h3>
+            <img src={logo} className="img-fluid logo" alt="brand" />
           </Col>
           <Col md="4" className="footer-body">
             <ul className="footer-icons">
