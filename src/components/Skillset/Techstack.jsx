@@ -4,15 +4,16 @@ import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiGit,
+  DiCss3,
+  DiPhp
 } from "react-icons/di";
+import{
+  BsGithub,
+  BsBootstrapFill
+}from "react-icons/bs"
 import {
-  SiMaterialui,
-  SiGraphql,
-  SiSolidity,
-  SiRedux,
-  SiMongodb,
-  SiHtml5
+  SiHtml5,
+  SiMysql
 } from "react-icons/si";
 
 const Techstack = () => {
@@ -20,34 +21,41 @@ const Techstack = () => {
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
         <SiHtml5 />
+        <h2>Html</h2>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiCss3 />
+        <h2>CSS</h2>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
+        <h2>JavaScript</h2>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <BsBootstrapFill />
+        <h2>Bootstrap</h2>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
+        <h2>Node Js</h2>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
+        <h2>React Js</h2>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedux />
+      <BsGithub />
+      <h2>Github</h2>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMongodb />
+        <DiPhp />
+        <h2>Php</h2>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiGraphql />
+        <SiMysql />
+        <h2>MySql</h2>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiMaterialui />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
-      </Col>
+      
     </Row>
   );
 }
