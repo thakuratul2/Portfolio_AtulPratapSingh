@@ -1,8 +1,7 @@
-# JS Portfolio Website
+# Atul Pratap Singh Portfolio Website
 
-[🔗Live Demo🔗](https://sajib.vercel.app/)
+[🔗Live Demo🔗](https://atulpratapsingh.netlify.app/)
 
-![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
 
 <div align="center">
 
@@ -22,12 +21,12 @@
      </thead>
     <tbody>
          <tr>
-            <td><a href="https://github.com/19sajib/portfolio"</a>Project</td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/19sajib/portfolio?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/19sajib/portfolio?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/19sajib/portfolio?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/19sajib/portfolio?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/19sajib/portfolio?style=flat&color=critical&logo=github"/></td>
+            <td><a href="https://github.com/thakuratul2/Portfolio_AtulPratapSingh"</a>Project</td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/1thakuratul2/Portfolio_AtulPratapSingh?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/1thakuratul2/Portfolio_AtulPratapSingh?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/thakuratul2/Portfolio_AtulPratapSingh?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/thakuratul2/Portfolio_AtulPratapSingh?style=flat&logo=github"/></td>
+           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/thakuratul2/Portfolio_AtulPratapSingh?style=flat&color=critical&logo=github"/></td>
         </tr>
     </tbody>
 </table>
