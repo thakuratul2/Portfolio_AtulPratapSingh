@@ -3,7 +3,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "../components/Projects/ProjectCard";
 import Particle from "../components/Particle";
 import pg from "../assets/projects/pg.png"
-import project from "../assets/projects/projects.png";
 import admin from "../assets/projects/admin.png";
 import lift from "../assets/projects/lift.png";
 import kickstart from "../assets/projects/kickstart.png";
@@ -62,21 +61,13 @@ const Projects = () => {
               imgPath={pg}
               isBlog={false}
               title="Gurukul Website"
-              description="Project Krypto is a Web 3 project that utilizes an Ethereum smart contract created using Solidity. It allows users to interact with their Metamask wallet and send Ethereum."
+              description="I've made fully responsive gurkul website which content all the activity performend like events, publish notices."
               ghLink="https://github.com/thakuratul2/Gurukul-BR-SOFTSOL-"
               demoLink="https://thakuratul2.github.io/Gurukul-BR-SOFTSOL-/"
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={project}
-              isBlog={false}
-              title="Solidity Kickstart"
-              description="Solidity Kickstart is a Web 3 project that utilizes an Ethereum smart contract created using Solidity. It includes all the functionality of a kickstart platform, enabling users to interact with their Metamask wallet, transfer Ethereum and participate in kickstart campaigns."
-              ghLink="https://github.com/19sajib/Solidity-Kickstart"
-            />
-          </Col>
+          
         </Row>
       </Container>
     </Container>
