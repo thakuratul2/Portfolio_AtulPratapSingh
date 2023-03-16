@@ -22,11 +22,16 @@ const Projects = () => {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={lift}
+              imgPath={kickstart}
               isBlog={false}
-              title="Lift-Buddy"
-              description="This online ride-sharing platform boasts a responsive front-end design, complete with an admin panel built using React and Material-UI. With the integration of Google Maps API, users can easily access directions on the map. The platform allows for full CURD functionality on profiles and posts, and users can confirm or cancel a ride from a post and message each other after confirmation. Additionally, users can easily reset their password. The back-end is powered by a Node Express server and utilizes MongoDB for the database management."
-              ghLink="https://github.com/19sajib/lift-buddy"
+              title="Own Portfolio Website"
+              description="Created my own portfolio website by using react js with bootstrap and custom css.
+              📖 Multi-Page Layout
+
+              🎨 Styled with React-Bootstrap and CSS with easy to customize colors
+
+               📱 Fully Responsive."
+              ghLink="https://github.com/thakuratul2/Portfolio_AtulPratapSingh"
             />
           </Col>
 
