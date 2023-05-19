@@ -2,8 +2,8 @@ import React from 'react'
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from '../assets/about.png'
 import Particle from '../components/Particle';
-import About from '../components/Home/About';
-import Type from '../components/Home/Type';
+import About from '../components/home/About';
+import Type from '../components/home/Type';
 
 const Home = () => {
   return (
