@@ -15,10 +15,7 @@ const Toolstack = () => {
         <SiVisualstudiocode />
         <h2>Vs Code</h2>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
-        <h2>Postman</h2>
-      </Col>
+      
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
         <h2>Firebase</h2>
