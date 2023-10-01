@@ -35,10 +35,7 @@ const Techstack = () => {
         <BsBootstrapFill />
         <h2>Bootstrap</h2>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
-        <h2>Node Js</h2>
-      </Col>
+     
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
         <h2>React Js</h2>
