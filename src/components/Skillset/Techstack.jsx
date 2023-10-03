@@ -50,6 +50,7 @@ const Techstack = () => {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMysql />
+        
         <h2>MySql</h2>
       </Col>
       
